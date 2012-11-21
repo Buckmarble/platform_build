@@ -36,7 +36,6 @@ PRODUCT_PACKAGES := \
     Phone \
     Settings \
     SystemUI \
-    Trebuchet \
     CalendarProvider \
     bluetooth-health \
     hostapd \

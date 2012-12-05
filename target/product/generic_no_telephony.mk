@@ -26,7 +26,7 @@ PRODUCT_PACKAGES := \
     CertInstaller \
     DrmProvider \
     Email \
-    Exchange \
+    Exchange2 \
     FusedLocation \
     InputDevices \
     MusicFX \
